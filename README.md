@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ultimatesigrid
 - 👀 I’m interested in travelling
 - 🌱 I’m currently learning coding with TOP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on something fun, which teaches me something new
 - 📫 How to reach me: send me a message 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am a twin
 
 <!---
