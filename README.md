@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ultimatesigrid
+- 👋 Hi, I’m Sigrid
 - 👀 I’m interested in travelling
 - 🌱 I’m currently learning coding with TOP
 - 💞️ I’m looking to collaborate on something fun, which teaches me something new
